@@ -3,3 +3,6 @@ chromadb>=0.5
 openai>=1.40
 pandas>=2.0
 tqdm>=4.66
+ollama>=0.6.3
+fastapi>=0.143.1
+uvicorn>=0.54.0
